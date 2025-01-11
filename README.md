@@ -28,9 +28,9 @@ npm install express
 ```bash
 node index.js
 ```
-http://3.7.65.206:3003/assignment/devops
+http://3.7.65.206:3005/assignment/devops
 
-http://3.7.65.206:3003/assignment/frontend
+http://3.7.65.206:3005/assignment/frontend
 (can also access /backend, /devops,etc options in frontend ui )
 
 ![](https://github.com/Shradha3001/vf-backend/blob/42e90429212f399f55a13108140f96df7410be8b/Screenshot%202025-01-11%20002601.png)
