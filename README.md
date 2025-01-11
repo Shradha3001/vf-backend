@@ -35,3 +35,8 @@ http://3.7.65.206:3003/assignment/frontend
 
 ![](https://github.com/Shradha3001/vf-backend/blob/42e90429212f399f55a13108140f96df7410be8b/Screenshot%202025-01-11%20002601.png)
 ![](https://github.com/Shradha3001/vf-backend/blob/42e90429212f399f55a13108140f96df7410be8b/Screenshot%202025-01-11%20002628.png)
+
+### Able to connect Backend(locally) and frontend hosted on firebase 
+
+
+
