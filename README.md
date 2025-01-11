@@ -1,0 +1,34 @@
+### Created a backed using Node.js
+
+This backend contains routes i.e, Where to route the traffic after we hit the API
+eg: http:/ec2-publicip:3003/assignment/role
+roles are (frontend,backend,devops)
+
+### Deploying Backend on AWS EC2
+1. Created a EC2 instance of size t3.small and ami Ubuntu(opening ports SSH,HTTP,HTTPS, TCP:3003)
+
+2. Installing Node on ec2
+```bash
+sudo apt install nodejs npm nginx
+node -v
+npm -v
+```
+
+3. Made a directory vf-backend for deploying backend 
+
+```bash
+sudo apt update
+sudo mkdir vf-backend
+sudo nano index.js
+npm init -y
+npm install express
+```
+
+4. Deploying backend on ec2 and accessing through ec2 public ip
+```bash
+node index.js
+```
+http://3.7.65.206:3003/assignment/devops
+http://3.7.65.206:3003/assignment/frontend
+(can also access /backend, /devops,etc options in frontend ui )
+
