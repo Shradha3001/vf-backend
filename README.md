@@ -28,9 +28,9 @@ npm install express
 ```bash
 node index.js
 ```
-[Devops role Backend endponint-](http://13.203.141.207:3005/assignment/devops)
+[Devops role Backend endponint-](http://13.203.141.207:3005/assignment/devops) http://13.203.141.207:3005/assignment/devops
 
-[Devops role frontend endponint -](http://13.203.141.207:3005/assignment/frontend)
+[Devops role frontend endponint -](http://13.203.141.207:3005/assignment/frontend) http://13.203.141.207:3005/assignment/frontend
 
 (can also access /backend, /devops,etc options in frontend ui/endpoints )
 
